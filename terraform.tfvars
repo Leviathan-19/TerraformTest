@@ -19,7 +19,7 @@ public_subnet_ids = [
 ]
 
 # AMI de Amazon Linux 2 en tu región (cámbiala por la oficial de tu región)
-ami_id = "ami-068c0051b15cdb816" 
+ami_id = "ami-0c398cb65a93047f2" 
 
 # Tipo de instancia para los Auto Scaling Groups
 instance_type = "t3.micro"
